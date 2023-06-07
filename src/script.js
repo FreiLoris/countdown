@@ -1,4 +1,4 @@
-const targetDate = Date.parse('28 May 2023 00:00:00 GMT');
+const targetDate = Date.parse('30 June 2023 00:00:00 GMT');
 
 function getTimeSegmentElements(segmentElement) {
   const segmentDisplay = segmentElement.querySelector(
